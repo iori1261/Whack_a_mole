@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whack_a_mole", "Whack_a_mole\Whack_a_mole.csproj", "{0CBE6ECB-4E6B-462C-BD38-21360207218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBE6ECB-4E6B-462C-BD38-21360207218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBE6ECB-4E6B-462C-BD38-21360207218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBE6ECB-4E6B-462C-BD38-21360207218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBE6ECB-4E6B-462C-BD38-21360207218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59032F00-EE7B-4E85-B59D-8593DFC885E2}
+	EndGlobalSection
+EndGlobal
